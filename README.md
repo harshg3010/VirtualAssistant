@@ -187,37 +187,9 @@ Alexa who created you?
 
 ---
 
-## 📸 Screenshots
-
-### Home Screen
-
-(Add Screenshot Here)
-
-### Assistant Customization
-
-(Add Screenshot Here)
-
-### Voice Interaction
-
-(Add Screenshot Here)
-
----
-
-## 🌟 Resume Highlights
-
-* Developed a full-stack AI voice assistant with real-time speech recognition and speech synthesis capabilities.
-* Integrated Google Gemini API for intent classification and conversational AI interactions.
-* Implemented wake-word-based activation to optimize API usage and improve user experience.
-* Designed secure authentication, assistant customization, and conversation history management features.
-
----
-
 ## 👨‍💻 Author
 
 **Harsh Goel**
-
-* GitHub: Your GitHub Profile
-* LinkedIn: Your LinkedIn Profile
 
 ---
 
