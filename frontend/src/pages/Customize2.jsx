@@ -1,5 +1,5 @@
 import { useContext, useState } from "react";
-import { userDataContext } from "../context/userContext";
+import { userDataContext } from "../context/UserContext";
 import axios from "axios";
 import { MdArrowBack } from "react-icons/md";
 import { useNavigate } from "react-router-dom";
